@@ -1,0 +1,16 @@
+{
+	"id": "xmc-litter",
+	"version": "1.0",
+	"title": {
+		"en_US": "XMC - Hexacast Litter"
+	},
+	"description": {
+		"en_US": "Makes Hexacast spellcards linger on the ground for a long time \\c[3](visual only)\\c[0]"
+	},
+	"icons": {
+		"24": "icon.png"
+	},
+	"dependencies": {
+		"xmc-hexacast": ">=0.0.1"
+	}
+}
