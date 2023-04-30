@@ -1,3 +1,6 @@
+1.2 (04/29/2023)
+- Added support for Icicle Deck new death effect (Hexacast mod 0.6.0)
+
 1.1 (03/26/2023)
 - Added effect support for Mundane Volley (Hexacast mod 0.4.0)
 
