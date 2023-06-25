@@ -1,3 +1,6 @@
+1.3 (06/24/2023)
+- Added support for Ashen Hex new death effect (Hexacast mod 0.16.0)
+
 1.2 (04/29/2023)
 - Added support for Icicle Deck new death effect (Hexacast mod 0.6.0)
 

@@ -37,6 +37,45 @@
         "type": "DEBRIS_CIRCLE",
         "anim": "HEXA_CARD_HEAT"
       }
+    ],
+    "explodeCardDeath": [
+      {
+        "numParticles": 1,
+        "duration": 0,
+        "centralAngle": 1,
+        "startDist": 0,
+        "random": true,
+        "zBounciness": 0,
+        "zGravityFactor": 1.1,
+        "collision": true,
+        "angleVary": 1,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "minSpeed": 50,
+        "maxSpeed": 70,
+        "minZSpeed": 200,
+        "maxZSpeed": 240,
+        "minZVel": 40,
+        "pAlpha": {
+          "init": 0.8,
+          "end": {
+            "value": 0,
+            "time": 0.5
+          }
+        },
+        "pScale": {
+          "init": {
+            "x": 0.8,
+            "y": 0.8
+          }
+        },
+        "particleDuration": 600,
+        "type": "DEBRIS_CIRCLE",
+        "anim": "HEXA_CARD_HEAT"
+      }
     ]
   }
 }
