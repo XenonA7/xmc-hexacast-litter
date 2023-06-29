@@ -1,3 +1,6 @@
+1.4 (06/28/2023)
+- Tweaked explodeCardDeath velocity parameters
+
 1.3 (06/24/2023)
 - Added support for Ashen Hex new death effect (Hexacast mod 0.16.0)
 

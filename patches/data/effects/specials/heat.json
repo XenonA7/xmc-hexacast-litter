@@ -46,7 +46,6 @@
         "startDist": 0,
         "random": true,
         "zBounciness": 0,
-        "zGravityFactor": 1.1,
         "collision": true,
         "angleVary": 1,
         "offset": {
@@ -54,10 +53,10 @@
           "y": 0,
           "z": 0
         },
-        "minSpeed": 50,
-        "maxSpeed": 70,
-        "minZSpeed": 200,
-        "maxZSpeed": 240,
+        "minSpeed": 40,
+        "maxSpeed": 60,
+        "minZSpeed": 160,
+        "maxZSpeed": 200,
         "minZVel": 40,
         "pAlpha": {
           "init": 0.8,
