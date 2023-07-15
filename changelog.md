@@ -1,3 +1,6 @@
+1.5 (07/15/2023)
+- Added support for Ace of Flames (Hexacast mod 0.20.0)
+
 1.4 (06/28/2023)
 - Tweaked explodeCardDeath velocity parameters
 
