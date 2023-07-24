@@ -1,3 +1,6 @@
+1.6 (07/23/2023)
+- Added support for Acceleration Mine (Hexacast mod 0.21.0)
+
 1.5 (07/15/2023)
 - Added support for Ace of Flames (Hexacast mod 0.20.0)
 
