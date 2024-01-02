@@ -1,3 +1,6 @@
+1.7 (01/01/2024)
+- Added support for Polarity Spark (Hexacast mod 0.25.0)
+
 1.6 (07/23/2023)
 - Added support for Acceleration Mine (Hexacast mod 0.21.0)
 
