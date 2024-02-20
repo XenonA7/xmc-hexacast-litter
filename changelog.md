@@ -1,3 +1,6 @@
+1.8 (02/19/2024)
+- Updated to new ccmod.json standard
+
 1.7 (01/01/2024)
 - Added support for Polarity Spark (Hexacast mod 0.25.0)
 

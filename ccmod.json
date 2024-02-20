@@ -1,6 +1,6 @@
 {
 	"id": "xmc-litter",
-	"version": "1.7",
+	"version": "1.8",
 	"title": {
 		"en_US": "XMC - Hexacast Litter"
 	},
@@ -9,7 +9,7 @@
 	},
 	"repository": "https://github.com/XenonA7/xmc-hexacast-litter",
 	"tags": ["cosmetic"],
-	"authors": "xenon",
+	"authors": "XenonA7",
 	"icons": {
 		"24": "icon.png"
 	},
