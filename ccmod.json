@@ -7,6 +7,9 @@
 	"description": {
 		"en_US": "Makes Hexacast spellcards linger on the ground for a long time \\c[3](visual only)\\c[0]"
 	},
+	"repository": "https://github.com/XenonA7/xmc-hexacast-litter",
+	"tags": ["cosmetic"],
+	"authors": "xenon",
 	"icons": {
 		"24": "icon.png"
 	},
