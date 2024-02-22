@@ -1,3 +1,6 @@
+1.0.8 (02/21/2024)
+- Compliance with new version format standard
+
 1.8 (02/19/2024)
 - Updated to new ccmod.json standard
 
