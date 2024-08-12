@@ -38,7 +38,7 @@
         "anim": "HEXA_CARD_COLD"
       }
     ],
-    "iceCardSmallDeath": [
+    "explodeCardDeathCold": [
       {
         "numParticles": 1,
         "duration": 0,

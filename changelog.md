@@ -1,3 +1,7 @@
+1.0.9 (08/11/2024)
+- Support for Hexacast 0.45.0
+- Added and standardized "explodeCardNeutral" type effects
+
 1.0.8 (02/21/2024)
 - Compliance with new version format standard
 

@@ -1,6 +1,6 @@
 {
   "EFFECTS": {
-    "explodeCardDeath": [
+    "explodeCardDeathNeutral": [
       {
         "numParticles": 1,
         "duration": 0,
