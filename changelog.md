@@ -1,3 +1,8 @@
+2.0.0 (08/23/2024)
+- Support for XPC 2.0.0 and higher
+- Support for xmc-hexacast discontinued
+- Mod ID changed from xmc-litter to xpc-litter
+
 1.0.9 (08/11/2024)
 - Support for Hexacast 0.45.0
 - Added and standardized "explodeCardNeutral" type effects
